@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> services   </title>
+</head>
+<body bgcolor ="yellow">  </body>
+<fieldset>
+<legend> cloud sevices   </legend>
+<form>
+<input type ="radio"  name="soft"  value="firexfox">firefox </br>
+<input type ="radio"  name="soft"  value="gedit">texteditor </br>
+<input type ="radio"  name="soft"  value="vlc">media player </br>
+<input type ="radio"  name="soft"  value="clac">calculator </br>
+<input type ="submit"    value="submit"> </br>
+
+
+
+
+
+</form>
+</fieldset>
+</body>
+</html>
+
+
+
+
+</html>
